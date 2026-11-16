@@ -3,7 +3,6 @@ package com.cricketcardbattle.model;
 public class PlayerCard {
      private String cardId;
      private CricketPlayer cricketPlayer;
-     private String remove = "leave i and rmove dont forget";
 
      public PlayerCard(
           String cardId,
@@ -21,4 +20,3 @@ public class PlayerCard {
      }
 
 }
-/*nothing just */
